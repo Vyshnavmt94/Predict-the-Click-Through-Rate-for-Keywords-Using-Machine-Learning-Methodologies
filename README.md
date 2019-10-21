@@ -20,8 +20,11 @@ Predicting for any keyword (not necessarily the ones in the dataset file), CPC, 
 
 # Random forest Regression:
 Coefficient of determination R^2 of the prediction:  0.914177804049537
+
 Mean squared error: 297606.09
+
 Test Variance score: 0.80
+
 mean_absolute_error: 74.95
 
 # XGboost Regression:
