@@ -8,6 +8,7 @@ Predicting for any keyword (not necessarily the ones in the dataset file), CPC, 
 
 # Data set Description: 
 
-
-
+![image](https://user-images.githubusercontent.com/41851165/67200400-4168dc00-f421-11e9-816d-23bf5e1a39ca.png)
 Description of attributes in data set
+
+
