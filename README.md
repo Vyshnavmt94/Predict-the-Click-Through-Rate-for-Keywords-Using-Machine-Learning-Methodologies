@@ -29,17 +29,24 @@ mean_absolute_error: 74.95
 
 # XGboost Regression:
 Coefficient of determination R^2 of the prediction.  0.5800091699348091
+
 Mean squared error: 393330.94
+
 Test Variance score: 0.74
+
 mean_absolute_error: 213.09
 
 
 # 1-DCNN:
 Mean squared error: 183220.71
+
 Test Variance score: 0.88
+
 mean_absolute_error: 61.83
 
 # GRU:
 Mean squared error: 125502.27
+
 R2 score: 0.92
+
 mean_absolute_error: 70.50
